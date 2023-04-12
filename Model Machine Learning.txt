@@ -1,0 +1,15 @@
+Model Machine Learning
+1. NN
+2. ANN
+3. RNN
+
+Model machine learning tergantung data, problem, preferensi
+cari dokumentasi ttg model / library	
+
+1. import library dan segala macam
+2. load data / Visualisasi data (kalau tidak mengerti)
+3. Preprrocess data (ubah data mentah jadi data siap training)
+4. bangun arsitektur model
+5. training data
+6. Evaluasi model
+7. ulangi step 3-6 berkali kali dengan parameter model berbeda
