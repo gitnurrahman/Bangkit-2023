@@ -13,3 +13,23 @@ cari dokumentasi ttg model / library
 5. training data
 6. Evaluasi model
 7. ulangi step 3-6 berkali kali dengan parameter model berbeda
+
+Alur pembuatan machine learning dapat dibagi menjadi beberapa tahap, di antaranya:
+
+1. Pemahaman Masalah: Tahap ini melibatkan pemahaman masalah yang ingin diselesaikan dengan menggunakan machine learning. Pemahaman masalah adalah langkah awal yang penting dalam membuat model machine learning yang baik.
+
+2. Pengumpulan Data: Setelah memahami masalah yang ingin diselesaikan, langkah selanjutnya adalah mengumpulkan data yang relevan dengan masalah tersebut. Data ini akan menjadi bahan dasar untuk membangun model machine learning.
+
+3. Preprocessing Data: Data yang dikumpulkan kemudian perlu diproses terlebih dahulu sebelum digunakan sebagai input untuk model machine learning. Tahap preprocessing data ini meliputi pembersihan data, penghapusan data yang tidak relevan, dan pengolahan data yang hilang atau rusak.
+
+4. Pemilihan Model: Setelah data siap, langkah selanjutnya adalah memilih model machine learning yang tepat untuk masalah yang ingin diselesaikan. Pemilihan model machine learning perlu mempertimbangkan jenis data yang digunakan dan tujuan akhir dari model tersebut.
+
+5. Pelatihan Model: Setelah memilih model machine learning yang tepat, tahap selanjutnya adalah melatih model dengan menggunakan data yang telah diproses. Pelatihan model ini dilakukan dengan menggunakan algoritma tertentu yang akan memodifikasi bobot dan parameter model sehingga dapat menghasilkan prediksi yang lebih baik.
+
+6. Validasi Model: Setelah model dilatih, tahap selanjutnya adalah menguji model dengan menggunakan data yang belum pernah dilihat sebelumnya. Tujuan dari tahap validasi model ini adalah untuk mengetahui sejauh mana model dapat menggeneralisasi data yang tidak dikenal.
+
+7. Tuning Model: Jika hasil validasi model tidak memuaskan, langkah selanjutnya adalah melakukan tuning model dengan mengubah parameter atau struktur model. Tahap tuning model ini dilakukan untuk meningkatkan kinerja model.
+
+8. Implementasi Model: Setelah model dianggap cukup baik, tahap terakhir adalah mengimplementasikan model ke dalam sistem yang digunakan. Implementasi model dilakukan agar model dapat digunakan secara real-time untuk memecahkan masalah yang telah diidentifikasi.
+
+Itulah beberapa tahapan dalam pembuatan machine learning. Tentu saja, setiap tahap dapat diulang atau diubah jika diperlukan untuk mendapatkan model yang lebih baik.
