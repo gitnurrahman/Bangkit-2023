@@ -14,7 +14,7 @@ cari dokumentasi ttg model / library
 3. Preprocessing Data: Data yang dikumpulkan kemudian perlu diproses terlebih dahulu sebelum digunakan sebagai
     input untuk model machine learning. Tahap preprocessing data ini meliputi pembersihan data, penghapusan data
     yang tidak relevan, dan pengolahan data yang hilang atau rusak.
-
+'
 4. Pemilihan Model: 
     Setelah data siap, langkah selanjutnya adalah memilih model machine learning yang tepat untuk masalah yang
     ingin diselesaikan. Pemilihan model machine learning perlu mempertimbangkan jenis data yang digunakan dan tujuan akhir dari model tersebut.
