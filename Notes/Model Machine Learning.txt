@@ -36,6 +36,31 @@ cari dokumentasi ttg model / library
     Setelah model dianggap cukup baik, tahap terakhir adalah mengimplementasikan model ke dalam sistem yang digunakan.
     Implementasi model dilakukan agar model dapat digunakan secara real-time untuk memecahkan masalah yang telah diidentifikasi.
 
+[AI]
+1.Machine Learning: Ini adalah cabang utama dari AI di mana komputer diajarkan untuk belajar dari data dan meningkatkan kinerjanya secara mandiri tanpa perlu diprogram secara eksplisit.
+
+2.Deep Learning: Ini adalah subbidang dari machine learning yang menggunakan jaringan saraf tiruan berlapis-lapis untuk memproses dan memahami data yang kompleks.
+
+3.Natural Language Processing (NLP): Ini adalah cabang dari AI yang berfokus pada pemahaman, interpretasi, dan manipulasi bahasa manusia oleh komputer.
+
+4.Computer Vision: Ini adalah cabang AI yang berfokus pada pemahaman, analisis, dan interpretasi gambar dan video oleh komputer.
+
+5.Robotika: Ini adalah bidang AI yang berkaitan dengan pengembangan dan penggunaan robot cerdas yang dapat berinteraksi dan beroperasi dalam lingkungan manusia.
+
+6.Automated Reasoning: Ini adalah cabang AI yang berfokus pada pengembangan algoritma dan sistem yang dapat melakukan pemikiran dan penalaran secara otomatis.
+
+7.Expert Systems: Ini adalah sistem komputer yang menyimpan pengetahuan dari seorang ahli manusia dalam bidang tertentu dan dapat mengambil keputusan seperti ahli manusia.
+
+8.Swarm Intelligence: Ini adalah cabang AI yang terinspirasi oleh perilaku kolektif serangga dan hewan sosial dalam alam, dan mencoba memodelkan dan menerapkan perilaku kolektif dalam sistem komputer.
+
+9.Speech Recognition: Ini adalah cabang AI yang berfokus pada kemampuan komputer untuk mengenali dan memahami ucapan manusia.
+
+10.Autonomous Systems: Ini adalah bidang AI yang berkaitan dengan pengembangan sistem yang dapat beroperasi dan membuat keputusan secara mandiri tanpa campur tangan manusia.
+
+11.Reinforcement Learning: Ini adalah cabang dari machine learning yang melibatkan sistem agen yang belajar melalui interaksi dengan lingkungan dan diberikan hadiah atau hukuman berdasarkan tindakannya.
+
+12.Data Mining: Ini adalah cabang AI yang mencari pola dan pengetahuan yang berharga dari data besar dan kompleks.
+
 [Model Machine Learning:]
 Dalam machine learning, terdapat beberapa jenis model yang dapat digunakan, di antaranya:
 
@@ -75,3 +100,26 @@ Untuk melatih model machine learning, terdapat beberapa langkah yang perlu dilak
 6. Optimasi model: Optimasi model dilakukan untuk meningkatkan kinerja model dengan melakukan tuning parameter atau memilih algoritma yang lebih baik.
 
 7. Implementasi model: Setelah model telah dioptimasi, implementasi model dilakukan dengan mengaplikasikan model ke dalam sistem yang sesuai.
+
+[Deep Learnig]
+Deep Learning adalah subbidang dari Machine Learning yang menggunakan jaringan saraf tiruan berlapis-lapis (artificial neural networks) untuk memproses data dan melakukan pembelajaran dari pola kompleks. Berikut adalah beberapa teknik dan model dalam deep learning:
+
+1.Multi-Layer Perceptron (MLP): Ini adalah model jaringan saraf tiruan yang terdiri dari beberapa lapisan (input layer, hidden layers, dan output layer) yang dapat memproses data terstruktur dan melakukan pemrosesan paralel.
+
+2.Convolutional Neural Networks (CNN): Model ini sangat efektif untuk tugas pengenalan gambar dan penglihatan komputer. CNN memiliki lapisan konvolusi yang dapat mengidentifikasi pola visual dalam data gambar.
+
+3.Recurrent Neural Networks (RNN): Model ini cocok untuk tugas yang melibatkan data urutan, seperti analisis teks dan pemrosesan bahasa alami, karena dapat menyimpan informasi konteks sebelumnya.
+
+4.Long Short-Term Memory (LSTM): Ini adalah jenis RNN yang memiliki mekanisme khusus untuk mengatasi masalah menghilangnya atau meledaknya gradien dalam jaringan yang lebih dalam.
+
+5.Generative Adversarial Networks (GANs): GAN adalah model yang terdiri dari dua jaringan saraf, yaitu generator dan discriminator, yang saling bersaing dalam pembelajaran. GAN digunakan untuk menghasilkan data sintetis yang mirip dengan data asli.
+
+6.Autoencoders: Model ini berusaha merekonstruksi data input sendiri sebagai target output. Autoencoders sering digunakan untuk kompresi data atau ekstraksi fitur.
+
+7.Transformer: Model ini diperkenalkan untuk pemrosesan bahasa alami dan telah menjadi inti dari banyak model terkini dalam NLP. Transformer berbasis pada mekanisme attention untuk pemahaman teks yang lebih baik.
+
+8.Deep Reinforcement Learning: Ini menggabungkan deep learning dengan reinforcement learning, di mana agen belajar melalui interaksi dengan lingkungan dan mencari tahu tindakan optimal berdasarkan kehadiran hadiah atau hukuman.
+
+9.Deep Belief Networks (DBN): Ini adalah arsitektur jaringan saraf tiruan berlapis yang terdiri dari lapisan yang terhubung secara tak-terawasi dan terawasi. DBN sering digunakan dalam tugas pembelajaran tak-terawasi seperti pemrosesan data dan penggalian pengetahuan.
+
+10.Capsule Networks: Model ini adalah alternatif untuk CNN yang mencoba mengatasi kelemahan dalam pengenalan objek multi-posisi dengan merepresentasikan fitur objek sebagai kumpulan kapsul yang dapat merepresentasikan atribut objek.
